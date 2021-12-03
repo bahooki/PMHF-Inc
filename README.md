@@ -1,5 +1,6 @@
 # PMHF-Inc
-Doing Asset analysis using free sources of online data
+Performing Asset analysis using free sources of online data
+===========================================================
 
 Steps to setup Python for Windows to get started using YahooFinance
 
