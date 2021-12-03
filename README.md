@@ -53,3 +53,4 @@ git commit -a -m creates a commit: -a adds all changes | -m "insert comment with
 
 git push origin [branchname]
 
+git fetch
