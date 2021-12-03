@@ -43,8 +43,12 @@ Git Commands
 ============
 
 git pull gets the latest copy from remote
+
 git checkout changes branches
+
 git add adds new files
-git commit -m creates a commit -m "insert comment within quotes"
+
+git commit -a -m creates a commit: -a adds all changes | -m "insert comment within quotes"
+
 git push origin [branchname]
- 
+
