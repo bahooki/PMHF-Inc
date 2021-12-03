@@ -37,3 +37,14 @@ You should see text in the Command Prompt saying that all three (beautifulsoup4,
 '>>> exec(open('script1.py').read())
 
 7. The last command is what allows you to actually run a .py script you’ve saved in your “code” folder, or any folder you’re currently pointed to in the Python Interpreter.
+
+
+Git Commands
+============
+
+git pull gets the latest copy from remote
+git checkout changes branches
+git add adds new files
+git commit -m creates a commit -m "insert comment within quotes"
+git push origin [branchname]
+ 
