@@ -41,14 +41,19 @@ You should see text in the Command Prompt saying that all three (beautifulsoup4,
 
 Git Commands
 ============
+https://git-scm.com/book/en/v2/Git-Branching-Basic-Branching-and-Merging
 
-git pull gets the latest copy from remote
+git pull :: gets the latest copy from remote
 
-git checkout changes branches
+git checkout -b :: use -b to create a new branch and then checkout the new branch
 
-git add adds new files
+git add :: adds new files
 
-git commit -a -m creates a commit: -a adds all changes | -m "insert comment within quotes"
+git commit -a -m :: creates a commit | -a adds all changes | -m "insert comment within quotes"
 
-git push origin [branchname]
+git push origin [branchname] :: pushes to github
+
+git merge ::
+
+
 
