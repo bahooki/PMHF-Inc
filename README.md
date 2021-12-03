@@ -3,6 +3,7 @@ Performing Asset analysis using free sources of online data
 ===========================================================
 
 Steps to setup Python for Windows to get started using YahooFinance
+test change
 
 1. Download the latest version of Python, make a note on where it’s saved to in your hard drive: https://www.python.org/downloads/
 
