@@ -41,7 +41,10 @@ You should see text in the Command Prompt saying that all three (beautifulsoup4,
 
 Git Commands
 ============
-https://git-scm.com/book/en/v2/Git-Branching-Basic-Branching-and-Merging
+**To set you home path in git bash follow the below steps**
+1. open git bash and run echo $HOME
+2. setx HOME "C:\pmhf-project\pmhf-inc"
+3. close and reopen git bash and run echo again
 
 git pull :: gets the latest copy from remote
 
@@ -54,6 +57,9 @@ git commit -a -m :: creates a commit | -a adds all changes | -m "insert comment 
 git push origin [branchname] :: pushes to github
 
 git merge ::
+https://git-scm.com/book/en/v2/Git-Branching-Basic-Branching-and-Merging
 
 
-
+Markdown Documentation
+----------------------
+https://www.markdownguide.org/basic-syntax/
