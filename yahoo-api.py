@@ -20,3 +20,5 @@ p_obj = json.loads(json_string) # converts json string to python object
 api_data = json.dumps(p_obj, indent=2) # pretty print
 
 print(api_data)
+
+# next steps
