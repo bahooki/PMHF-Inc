@@ -3,12 +3,13 @@ Performing Asset analysis using free sources of online data
 ===========================================================
 
 Steps to setup Python for Windows to get started using YahooFinance
+test change
 
-1. Download the latest version of Python, make a note on where it’s saved to in your hard drive or just redirect it to the highest level of your hard drive: https://www.python.org/downloads/
+1. Download the latest version of Python, make a note on where it’s saved to in your hard drive: https://www.python.org/downloads/
 
-2. Once it’s installed, since you’ll most likely be using it through the Command Prompt (accessed via pressing Windows Key + R > type “cmd” > press Enter), move the downloaded Python folder from its default location to the highest level of your hard drive instead, so that it’s easy to use the “cd” command to redirect to Python so you can start executing within it directly
+2. Once it’s installed, since you’ll most likely be using it through the Command Prompt (accessed via pressing Windows Key + R > type “cmd” > press Enter), you'll need to use the “cd” command in your Command Prompt shell to redirect to Python so you can start executing within it directly
 
-3. Once the Python folder is in the simplest directory to access, double-click the “python.exe” file which is the Python Interpreter. This allows simple code testing and makes testing Statements easy as it doesn’t require a Compiler the way many other languages do. Pin this to your Taskbar for easy access
+3. Enter into the Python folder and double-click the “python.exe” file which is the Python Interpreter. This allows simple code testing and makes testing Statements easy as it doesn’t require a Compiler the way many other languages do. Pin this to your Taskbar for easy access
 
 4. Follow the instructions within https://github.com/JECSand/yahoofinancials to download YahooFinancials (you don’t need to download from the GitHub browser directly, and this also requires you to download beautifulsoup4 and pytz). I had some trouble here, but in your Command Prompt try typing the following, pressing Enter after each:
 
@@ -16,7 +17,7 @@ Steps to setup Python for Windows to get started using YahooFinance
 
     python -m pip install yahoofinancials
 
-You should see text in the Command Prompt saying that all three (beautifulsoup4, pytz, and yahoofinancials) have installed. You can then check the “Lib” folder within your Python folder to see that the BeautifulSoup and Pytz folders, as well as the YahooFinancials module file, have downloaded.
+You should see text in the Command Prompt saying that all three (beautifulsoup4, pytz, and yahoofinancials) have installed. You can then check the “Lib” folder within your Python folder to see that the BeautifulSoup and Pytz folders, as well as the YahooFinancials module file, have downloaded. If they aren't there, you may need to install each separately (simply replace "yahoofinancials" with "pytz" or "beautifulsoup" using the same command above).
 
 5. Once everything’s installed, you can write your programming scripts in Notepad++ and save them within the Python folder to easily test/execute them, though long-term it’s better to save them in a separate folder within your top level hard drive (as Python folder updates/downloads can delete/corrupt your program files), mine’s just called “code”.
 
@@ -56,10 +57,15 @@ git commit -a -m :: creates a commit | -a adds all changes | -m "insert comment 
 
 git push origin [branchname] :: pushes to github
 
+git fetch
+
 git merge ::
 https://git-scm.com/book/en/v2/Git-Branching-Basic-Branching-and-Merging
+https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/addressing-merge-conflicts/resolving-a-merge-conflict-using-the-command-line
 
 
 Markdown Documentation
 ----------------------
 https://www.markdownguide.org/basic-syntax/
+
+
