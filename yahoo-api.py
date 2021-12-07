@@ -1,5 +1,6 @@
 import json
 import datetime
+from datetime import timedelta
 from yahoofinancials import YahooFinancials
 
 ticker = 'SNOW'
@@ -21,4 +22,5 @@ api_data = json.dumps(p_obj, indent=2) # pretty print
 
 print(api_data)
 
-# next steps
+#print(yahoo_financials.get_market_cap())
+#print(yahoo_financials.get_daily_low())
