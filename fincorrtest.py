@@ -39,7 +39,7 @@ yahooticker2 = YahooFinancials(ticker2)
 prices = yahooticker1.get_historical_price_data(startdate, enddate, 'daily') #outputs as a Python Dictionary datatype!
 prices2 = yahooticker2.get_historical_price_data(startdate, enddate, 'daily') #outputs as a Python Dictionary datatype!
 
-day1high = prices[ticker1]['prices'][0]['high'] #outputs this one value I'm referencing; since it's a List within a series of
+day1high = prices[ticker1]['prices'][0]['close'] #outputs this one value I'm referencing; since it's a List within a series of
 #dictionaries, need to specify the list position of the final set of dictionary variables representing each day
 
 print(day1high * 2)
