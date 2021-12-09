@@ -26,11 +26,11 @@ https://www.investopedia.com/articles/active-trading/092315/5-most-powerful-cand
 
 Current Members [In Order of Joining]
 -------------------------------------
-Allan Hollingsworth
-Mario Cristiani
-Lukas [What]
-Eric Maida
-Ian Rogren [Damn well better]
+1. Allan Hollingsworth
+2. Mario Cristiani
+3. Lukas [Insert Last Name]
+4. Eric Maida
+5. Ian Rogren [Damn well better]
 
 
 Installation Tools
