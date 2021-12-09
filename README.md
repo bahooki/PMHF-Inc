@@ -5,6 +5,7 @@ Performing Asset analysis using free sources of online data
 Current Version: v0.1
 
 A project to leverage yahoofinancials api to identify entry and exit points for put and call contracts using candlestick pattern analysis
+
 https://www.investopedia.com/articles/active-trading/092315/5-most-powerful-candlestick-patterns.asp
 
 Overview
@@ -36,9 +37,9 @@ All returned analysis will be displayed [insert plan]
 Featured methods
 ----------------
 
-3bc 
-3linestrike
-PPMC
+1. 3bc 
+2. 3linestrike
+3. PPMC
 
 
 **Moved all detailed install instructions to github project > wiki pages** 
