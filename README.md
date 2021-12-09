@@ -23,6 +23,16 @@ Distributions will be paid out monthly to investors based on the sum total of al
 
 https://www.investopedia.com/articles/active-trading/092315/5-most-powerful-candlestick-patterns.asp
 
+
+Current Members [In Order of Joining]
+-------------------------------------
+Allan Hollingsworth
+Mario Cristiani
+Lukas [What]
+Eric Maida
+Ian Rogren [Damn well better]
+
+
 Installation Tools
 ==================
 
