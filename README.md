@@ -2,6 +2,12 @@
 Performing Asset analysis using free sources of online data
 ===========================================================
 
+
+
+
+
+
+
 Steps to setup Python for Windows to get started using YahooFinance
 test change
 
@@ -40,32 +46,9 @@ You should see text in the Command Prompt saying that all three (beautifulsoup4,
 7. The last command is what allows you to actually run a .py script you’ve saved in your “code” folder, or any folder you’re currently pointed to in the Python Interpreter.
 
 
-Git Commands
-============
-**To set you home path in git bash follow the below steps**
-1. open git bash and run echo $HOME
-2. setx HOME "C:\pmhf-project\pmhf-inc"
-3. close and reopen git bash and run echo again
-
-git pull :: gets the latest copy from remote
-
-git checkout -b :: use -b to create a new branch and then checkout the new branch
-
-git add :: adds new files
-
-git commit -a -m :: creates a commit | -a adds all changes | -m "insert comment within quotes"
-
-git push origin [branchname] :: pushes to github
-
-git fetch
-
-git merge ::
-https://git-scm.com/book/en/v2/Git-Branching-Basic-Branching-and-Merging
-https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/addressing-merge-conflicts/resolving-a-merge-conflict-using-the-command-line
 
 
-Markdown Documentation
-----------------------
-https://www.markdownguide.org/basic-syntax/
+
+
 
 
