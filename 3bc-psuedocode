@@ -1,8 +1,10 @@
 ### Three Black Crows Psuedocode
 
 Var [tickers] #array for stock tickers
+
 Set 3bc = zero
 Set j = 7 #counter for each daily close
+
 Var [c] = Get last seven days closing prices 7 down to 1 #Today is zero
 
 For j < 7 --1 
