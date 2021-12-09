@@ -5,8 +5,8 @@ Performing Asset analysis using free sources of online data
 Current Version: v0.1
 
 A project to leverage yahoofinancials api to identify entry and exit points for put and call contracts using candlestick pattern analysis
+https://github.com/JECSand/yahoofinancials
 
-https://www.investopedia.com/articles/active-trading/092315/5-most-powerful-candlestick-patterns.asp
 
 Overview
 ========
@@ -21,6 +21,7 @@ Importantly we will ensue that we are not overly concentrated using correlation 
 
 Distributions will be paid out monthly to investors based on the sum total of all closed contracts within that monthly window.  
 
+https://www.investopedia.com/articles/active-trading/092315/5-most-powerful-candlestick-patterns.asp
 
 Installation Tools
 ==================
