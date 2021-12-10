@@ -28,9 +28,15 @@ Current Members [In Order of Joining]
 -------------------------------------
 1. Allan Hollingsworth
 2. Mario Cristiani
-3. Lukas [Insert Last Name]
+3. Lukas Bundonis
 4. Eric Maida
-5. Ian Rogren [Damn well better]
+5. Ian Rogren 
+6. Mario Cristiani
+7. Nash Read
+
+Junior Members [In Order of Joining]
+-------------------------------------
+1. Nicolas Cristiani
 
 
 Installation Tools
