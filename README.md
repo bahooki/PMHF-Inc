@@ -34,7 +34,7 @@ Current Members [In Order of Joining]
 6. Mario Cristiani
 7. Nash Read
 
-Junior Members [In Order of Joining]
+Junior To The Members [In Order of Joining]
 -------------------------------------
 1. Nicolas Cristiani
 
